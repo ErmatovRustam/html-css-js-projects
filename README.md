@@ -1,2 +1,2 @@
 # html-css-js-projects
-<img width = 720px height = 575px src = './tic-tac-toe/gif.gif'>
+<img width = 750px height = 525px src = './tic-tac-toe/gif.gif'>
