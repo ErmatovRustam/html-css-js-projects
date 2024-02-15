@@ -7,6 +7,6 @@
 <img width = 780px height = 475px src = './01-image-slide/gif.gif'>
 
 <h2>02 - Soccer Player card</h2>
-<img width = 380px height = 485px src = './player-card/player.png '>
+<img width = 390px height = 495px src = './player-card/player.png '>
 
 
