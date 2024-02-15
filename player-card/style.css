@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.left-side img {
+    width: 80px;
+    padding-bottom: 8px;
+}
+
+.player-card {
+    width: 350px;
+    height: 430px;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+    padding: 0.2px;
+    color: #37003c;
+    background: linear-gradient(to top right, #f25757, #FFFFFF);
+}
+
+.right-side {
+    width: 250px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.left-side {
+    width: 100px;
+
+}
+
+main h4 {
+    padding: 10px;
+}
+
+main h1 {
+    padding: 5px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10px 5px 10px;
+}
+
+.main-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+section h4 {
+    margin: 3px;
+}
+
+main {}
