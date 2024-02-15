@@ -6,4 +6,7 @@
 <h2>01 - Image Slide pure JS</h2>
 <img width = 780px height = 475px src = './01-image-slide/gif.gif'>
 
+<h2>02 - Soccer Player card</h2>
+<img width = 380px height = 485px src = './player-card/player.png '>
+
 
